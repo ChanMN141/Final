@@ -34,3 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+MONGODB_URI=mongodb+srv://Chan:Chanmyanyein123456@cluster0.ceaz0nf.mongodb.net/?appName=Cluster0
+DB_NAME=library
+ADMIN_SETUP_PASS=adminsetuppass
+JWT_SECRET=myjwtsecret
+
+##I submitted the repository in lately.
+
+Backend repository:https://github.com/ChanMN141/Final
+
+If the frontend repository is not visible, the React frontend project was developed locally and connected to the backend during development.
+
+Environment parameters (not pushed to repository):MONGODB_URI = JWT_SECRET = 
+
+Thank you.
